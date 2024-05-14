@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_debug_locking"
+    source_file: "zuma-b0-ipop.dtb"
+  }
+  dest_file: "debug_locking/zuma-b0-ipop.dtb"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

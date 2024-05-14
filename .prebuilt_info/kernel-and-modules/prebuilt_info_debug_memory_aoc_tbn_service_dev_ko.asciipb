@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_debug_memory"
+    source_file: "aoc_tbn_service_dev.ko"
+  }
+  dest_file: "debug_memory/aoc_tbn_service_dev.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

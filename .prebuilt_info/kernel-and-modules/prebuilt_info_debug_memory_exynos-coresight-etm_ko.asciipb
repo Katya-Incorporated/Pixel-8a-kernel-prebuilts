@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_debug_memory"
+    source_file: "exynos-coresight-etm.ko"
+  }
+  dest_file: "debug_memory/exynos-coresight-etm.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

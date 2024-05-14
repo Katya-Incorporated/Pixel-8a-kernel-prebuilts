@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita"
+    source_file: "max77779-sp.ko"
+  }
+  dest_file: "max77779-sp.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_kasan"
+    source_file: "panel-samsung-s6e3hc3-c10.ko"
+  }
+  dest_file: "kasan/panel-samsung-s6e3hc3-c10.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

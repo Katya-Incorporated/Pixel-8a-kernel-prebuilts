@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_kasan"
+    source_file: "s2mpg15-powermeter.ko"
+  }
+  dest_file: "kasan/s2mpg15-powermeter.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

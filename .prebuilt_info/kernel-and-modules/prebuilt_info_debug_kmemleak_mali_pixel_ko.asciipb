@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_debug_kmemleak"
+    source_file: "mali_pixel.ko"
+  }
+  dest_file: "debug_kmemleak/mali_pixel.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}

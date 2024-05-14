@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11581629"
+    target: "akita_debug_kmemleak"
+    source_file: "cl_dsp-core.ko"
+  }
+  dest_file: "debug_kmemleak/cl_dsp-core.ko"
+  version: "11581629"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernel"
+}
